@@ -1,0 +1,15 @@
+C:\Users\jterr\Documents\VsCode Files\Reactivities\Persistence\bin\Debug\net5.0\Persistence.deps.json
+C:\Users\jterr\Documents\VsCode Files\Reactivities\Persistence\bin\Debug\net5.0\Persistence.dll
+C:\Users\jterr\Documents\VsCode Files\Reactivities\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+C:\Users\jterr\Documents\VsCode Files\Reactivities\Persistence\bin\Debug\net5.0\Persistence.pdb
+C:\Users\jterr\Documents\VsCode Files\Reactivities\Persistence\bin\Debug\net5.0\Domain.dll
+C:\Users\jterr\Documents\VsCode Files\Reactivities\Persistence\bin\Debug\net5.0\Domain.pdb
+C:\Users\jterr\Documents\VsCode Files\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csprojAssemblyReference.cache
+C:\Users\jterr\Documents\VsCode Files\Reactivities\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jterr\Documents\VsCode Files\Reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\jterr\Documents\VsCode Files\Reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+C:\Users\jterr\Documents\VsCode Files\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\jterr\Documents\VsCode Files\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+C:\Users\jterr\Documents\VsCode Files\Reactivities\Persistence\obj\Debug\net5.0\Persistence.dll
+C:\Users\jterr\Documents\VsCode Files\Reactivities\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+C:\Users\jterr\Documents\VsCode Files\Reactivities\Persistence\obj\Debug\net5.0\Persistence.pdb
